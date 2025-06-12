@@ -1,6 +1,9 @@
 # PathChroma
 
-![Demo](PathChroma.gif)
+<p align="center">
+  <img src="PathChroma.gif" alt="PathChroma Demo">
+</p>
+
 A beautiful visualization of a ball following a randomly generated path between start and end points on a grid, with color-changing effects.
 
 ## Features
